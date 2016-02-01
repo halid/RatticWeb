@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-17 09:20+1000\n"
-"PO-Revision-Date: 2016-02-01 10:34+0200\n"
+"PO-Revision-Date: 2016-02-01 11:35+0200\n"
 "Last-Translator: Halid Altuner <halid@halid.org>\n"
 "Language-Team: Turkish <>\n"
 "Language: \n"
@@ -29,7 +29,7 @@ msgstr "Yanlış Parola"
 
 #: account/models.py:56
 msgid "Items per page"
-msgstr ""
+msgstr "Sayfadaki öğe sayısı"
 
 #: account/models.py:57
 msgid "Favourite tags"
@@ -38,12 +38,12 @@ msgstr "Favori Etiketler"
 #: account/templates/account_changepass.html:4
 #: account/templates/password_reset_confirm.html:4
 msgid "Setting New password"
-msgstr ""
+msgstr "Yeni parola ayarla"
 
 #: account/templates/account_changepass.html:7
 #: account/templates/password_reset_confirm.html:8
 msgid "Please enter your new password twice."
-msgstr ""
+msgstr "Yeni parolanızı tekrar giriniz."
 
 #: account/templates/account_changepass.html:8
 #: account/templates/password_reset_confirm.html:9
@@ -73,7 +73,7 @@ msgstr "Rattic"
 
 #: account/templates/account_deleteapikey.html:10
 msgid "Please press confirm if you wish to delete this key"
-msgstr ""
+msgstr "Bu anahtarı silmek istiyorsanız lütfen Onayla'ya basınız"
 
 #: account/templates/account_deleteapikey.html:13
 #: account/templates/account_viewapikey.html:17
@@ -81,25 +81,25 @@ msgstr ""
 #: staff/templates/staff_groupdetail.html:20
 #: staff/templates/staff_home.html:47
 msgid "Name"
-msgstr ""
+msgstr "Ad"
 
 #: account/templates/account_deleteapikey.html:14
 #: cred/templates/cred_detail.html:82
 msgid "Created"
-msgstr ""
+msgstr "Oluşturulan"
 
 #: account/templates/account_deleteapikey.html:19
 #: cred/templates/cred_tagdelete.html:8
 msgid "Confirm"
-msgstr ""
+msgstr "Onayla"
 
 #: account/templates/account_ldaperror.html:6
 msgid "LDAP Error"
-msgstr ""
+msgstr "LDAP Hatası"
 
 #: account/templates/account_ldaperror.html:7
 msgid "Your LDAP server returned the following error:"
-msgstr ""
+msgstr "LDAP sunucunuz şu hatayı döndürdü"
 
 #: account/templates/account_ldaperror.html:8 cred/models.py:83
 #: cred/templates/cred_part_passgenmodal.html:9
@@ -108,7 +108,7 @@ msgstr "Açıklama"
 
 #: account/templates/account_ldaperror.html:9
 msgid "Further Info"
-msgstr ""
+msgstr "Daha Fazla Bilgi"
 
 #: account/templates/account_newapikey.html:4
 #: account/templates/account_newapikey.html:7
@@ -125,13 +125,13 @@ msgstr "Oluştur"
 
 #: account/templates/account_profile.html:7
 msgid "Your Account"
-msgstr ""
+msgstr "Hesabınız"
 
 #: account/templates/account_profile.html:10 cred/models.py:80
 #: cred/templates/cred_detail.html:44 ratticweb/templates/sidebar.html:28
 #: staff/templates/staff_home.html:26
 msgid "Username"
-msgstr ""
+msgstr "Kullanıcı Adı"
 
 #: account/templates/account_profile.html:11
 #: staff/templates/staff_userdetail.html:32
@@ -141,36 +141,36 @@ msgstr "E-Posta"
 #: account/templates/account_profile.html:15
 #: account/templates/account_profile.html:21
 msgid "Two Factor Authentication"
-msgstr ""
+msgstr "İki Aşamalı Doğrulama"
 
 #: account/templates/account_profile.html:15
 msgid "Enabled"
-msgstr ""
+msgstr "Etkin"
 
 #: account/templates/account_profile.html:15
 #: account/templates/account_tfa_disable.html:12
 msgid "Disable"
-msgstr ""
+msgstr "Devre Dışı"
 
 #: account/templates/account_profile.html:16
 msgid "Backup Codes Left"
-msgstr ""
+msgstr "Kalan Yedekleme Kodları"
 
 #: account/templates/account_profile.html:17
 msgid "View Codes"
-msgstr ""
+msgstr "Kodları Görüntüle"
 
 #: account/templates/account_profile.html:21
 msgid "Disabled"
-msgstr ""
+msgstr "Pasif"
 
 #: account/templates/account_profile.html:21
 msgid "Enable now"
-msgstr ""
+msgstr "Etkinleştir"
 
 #: account/templates/account_profile.html:24
 msgid "Last Password Change"
-msgstr ""
+msgstr "Son Parola Değişikliği"
 
 #: account/templates/account_profile.html:25 cred/models.py:85
 #: ratticweb/templates/sidebar.html:18
@@ -180,59 +180,59 @@ msgstr "Gruplar"
 
 #: account/templates/account_profile.html:30
 msgid "Save Changes"
-msgstr ""
+msgstr "Değişiklikleri Kaydet"
 
 #: account/templates/account_profile.html:35
 msgid "Change password"
-msgstr ""
+msgstr "Parolayı Değiştir"
 
 #: account/templates/account_profile.html:37
 msgid "Set Password"
-msgstr ""
+msgstr "Parolayı Ayarla"
 
 #: account/templates/account_profile.html:43
 msgid "API Keys"
-msgstr ""
+msgstr "API Anahtarları"
 
 #: account/templates/account_profile.html:51
 msgid "Key Name"
-msgstr ""
+msgstr "Anahtar Adı"
 
 #: account/templates/account_profile.html:52
 msgid "Date generated"
-msgstr ""
+msgstr "Oluşturulma Tarihi"
 
 #: account/templates/account_profile.html:53
 msgid "Expiry date"
-msgstr ""
+msgstr "Bitiş Tarihi"
 
 #: account/templates/account_profile.html:73
 msgid "No API Keys available yet"
-msgstr ""
+msgstr "Herhangi bir API anahtarı bulunmamaktadır"
 
 #: account/templates/account_profile.html:77
 msgid "Current Sessions"
-msgstr ""
+msgstr "Açık Oturumlar"
 
 #: account/templates/account_profile.html:82
 msgid "Device"
-msgstr ""
+msgstr "Cihaz"
 
 #: account/templates/account_profile.html:83
 msgid "IP Address"
-msgstr ""
+msgstr "IP Adresi"
 
 #: account/templates/account_profile.html:84
 msgid "Last Activity"
-msgstr ""
+msgstr "Son Aktivite"
 
 #: account/templates/account_profile.html:95
 msgid "(This Session)"
-msgstr ""
+msgstr "Bu Oturum"
 
 #: account/templates/account_tfa_backup_tokens.html:5
 msgid "Backup Tokens"
-msgstr ""
+msgstr "Kodları(Token) Yedekle"
 
 #: account/templates/account_tfa_backup_tokens.html:6
 msgid ""
@@ -245,7 +245,7 @@ msgstr ""
 
 #: account/templates/account_tfa_backup_tokens.html:18
 msgid "Print these tokens and keep them somewhere safe."
-msgstr ""
+msgstr "Bu jetonları"
 
 #: account/templates/account_tfa_backup_tokens.html:20
 msgid "You don't have any backup codes yet."
@@ -273,7 +273,7 @@ msgstr ""
 #: ratticweb/templates/navbar.html:59 ratticweb/templates/sidebar.html:26
 #: ratticweb/templates/sidebar.html:30
 msgid "Login"
-msgstr ""
+msgstr "Giriş"
 
 #: account/templates/account_tfa_login.html:8
 msgid "Enter your credentials."
@@ -377,11 +377,11 @@ msgstr ""
 
 #: account/templates/account_viewapikey.html:21
 msgid "Back to Profile"
-msgstr ""
+msgstr "Profile Geri Dön"
 
 #: account/templates/password_reset.html:5
 msgid "Reset Password"
-msgstr ""
+msgstr "Parolayı Sıfırla"
 
 #: account/templates/password_reset.html:8
 msgid ""
@@ -390,15 +390,15 @@ msgstr ""
 
 #: account/templates/password_reset.html:15
 msgid "E-mail address"
-msgstr ""
+msgstr "E-Posta adresi"
 
 #: account/templates/password_reset.html:15
 msgid "Reset password"
-msgstr ""
+msgstr "Parolayı Sıfırla"
 
 #: account/templates/password_reset_complete.html:5
 msgid "Password reset complete"
-msgstr ""
+msgstr "Parola sıfırlama başarılı"
 
 #: account/templates/password_reset_complete.html:8
 msgid "Your password has been set. You may go ahead and log in now."
@@ -406,23 +406,23 @@ msgstr ""
 
 #: account/templates/password_reset_complete.html:9
 msgid "Log in"
-msgstr ""
+msgstr "Giriş"
 
 #: account/templates/password_reset_confirm.html:17
 msgid "New password"
-msgstr ""
+msgstr "Yeni Parola"
 
 #: account/templates/password_reset_confirm.html:22
 msgid "Confirm password"
-msgstr ""
+msgstr "Yeni Parola Onay"
 
 #: account/templates/password_reset_confirm.html:27
 msgid "Change my password"
-msgstr ""
+msgstr "Parolamı Değiştir"
 
 #: account/templates/password_reset_confirm.html:32
 msgid "Password reset unsuccessful"
-msgstr ""
+msgstr "Parola şifreleme başarısız"
 
 #: account/templates/password_reset_confirm.html:33
 msgid ""
@@ -487,16 +487,16 @@ msgstr ""
 #: staff/templates/staff_changeadvice.html:19
 #: staff/templates/staff_import_overview.html:11
 msgid "Title"
-msgstr ""
+msgstr "Başlık"
 
 #: cred/models.py:79 cred/templates/cred_detail.html:42
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: cred/models.py:81 cred/templates/cred_detail.html:54
 #: ratticweb/templates/sidebar.html:29
 msgid "Password"
-msgstr ""
+msgstr "Parola"
 
 #: cred/models.py:82
 msgid "Markdown Description"
@@ -505,7 +505,7 @@ msgstr ""
 #: cred/models.py:84 staff/templates/staff_changeadvice.html:21
 #: staff/templates/staff_groupdetail.html:10
 msgid "Group"
-msgstr ""
+msgstr "Grup"
 
 #: cred/models.py:86 cred/templates/cred_detail.html:80
 #: cred/templates/cred_list.html:75 ratticweb/templates/navbar.html:41
@@ -516,15 +516,15 @@ msgstr "Etiketler"
 
 #: cred/models.py:87
 msgid "Icon"
-msgstr ""
+msgstr "İkon"
 
 #: cred/models.py:88
 msgid "SSH key"
-msgstr ""
+msgstr "SSH Anahtarı"
 
 #: cred/models.py:89 cred/templates/cred_detail.html:64
 msgid "Attachment"
-msgstr ""
+msgstr "Ek"
 
 #: cred/models.py:211
 msgid "Added"
@@ -661,7 +661,7 @@ msgstr ""
 
 #: cred/templates/cred_detail.html:25
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #: cred/templates/cred_detail.html:29
 #: staff/templates/staff_groupdetail.html:13
@@ -669,11 +669,11 @@ msgstr ""
 #: staff/templates/staff_home.html:47 staff/templates/staff_home.html.py:52
 #: staff/templates/staff_userdetail.html:22
 msgid "Edit"
-msgstr ""
+msgstr "Düzenle"
 
 #: cred/templates/cred_detail.html:30
 msgid "History"
-msgstr ""
+msgstr "Tarihçe"
 
 #: cred/templates/cred_detail.html:31 cred/templates/cred_detail.html.py:99
 #: cred/templates/cred_list.html:31 cred/templates/cred_taglist.html:18
@@ -682,7 +682,7 @@ msgstr ""
 #: staff/templates/staff_home.html:47 staff/templates/staff_home.html.py:53
 #: staff/templates/staff_userdetail.html:24
 msgid "Delete"
-msgstr ""
+msgstr "Sil"
 
 #: cred/templates/cred_detail.html:33 cred/templates/cred_list.html:37
 #: staff/templates/staff_changeadvice.html:37
@@ -696,7 +696,7 @@ msgstr ""
 
 #: cred/templates/cred_detail.html:48 cred/templates/cred_detail.html.py:59
 msgid "Copy"
-msgstr ""
+msgstr "Kopyala"
 
 #: cred/templates/cred_detail.html:64 cred/templates/cred_detail.html.py:67
 msgid "Download"
@@ -744,7 +744,7 @@ msgstr ""
 
 #: cred/templates/cred_list.html:43
 msgid "Download Keepass"
-msgstr ""
+msgstr "Keepass İndir"
 
 #: cred/templates/cred_list.html:60 cred/templates/cred_list.html.py:62
 #: cred/templates/credaudit_list.html:9 staff/templates/staff_audit.html:28
@@ -752,17 +752,17 @@ msgstr ""
 #: staff/templates/staff_import_overview.html:12
 #: staff/templates/staff_userdetail.html:14
 msgid "User"
-msgstr ""
+msgstr "Kullanıcı"
 
 #: cred/templates/cred_list.html:102 cred/templates/cred_list.html.py:104
 #: staff/templates/staff_audit.html:53 staff/templates/staff_audit.html:55
 msgid "Prev"
-msgstr ""
+msgstr "Geri"
 
 #: cred/templates/cred_list.html:114 cred/templates/cred_list.html.py:116
 #: staff/templates/staff_audit.html:65 staff/templates/staff_audit.html:67
 msgid "Next"
-msgstr ""
+msgstr "İleri"
 
 #: cred/templates/cred_list.html:124
 msgid "Matched Tags"
@@ -780,7 +780,7 @@ msgstr ""
 
 #: cred/templates/cred_part_export.html:27
 msgid "Export"
-msgstr ""
+msgstr "Dışarı Aktar"
 
 #: cred/templates/cred_part_logomodal.html:14
 msgid "Icons"
@@ -804,7 +804,7 @@ msgstr ""
 
 #: cred/templates/cred_part_passgenmodal.html:5
 msgid "Password Generator"
-msgstr ""
+msgstr "Parola Üreteci"
 
 #: cred/templates/cred_part_passgenmodal.html:9
 msgid "Must Have"
@@ -824,7 +824,7 @@ msgstr ""
 
 #: cred/templates/cred_part_passgenmodal.html:23
 msgid "Numbers"
-msgstr ""
+msgstr "Numaralar"
 
 #: cred/templates/cred_part_passgenmodal.html:28
 msgid "Special"
@@ -844,7 +844,7 @@ msgstr ""
 
 #: cred/templates/cred_part_passgenmodal.html:40
 msgid "Generate"
-msgstr ""
+msgstr "Üret"
 
 #: cred/templates/cred_search.html:9
 msgid "Type your Query"
@@ -898,23 +898,23 @@ msgstr ""
 
 #: ratticweb/settings.py:57
 msgid "English"
-msgstr ""
+msgstr "İngilizce"
 
 #: ratticweb/settings.py:58
 msgid "French"
-msgstr ""
+msgstr "Fransızca"
 
 #: ratticweb/settings.py:59
 msgid "German"
-msgstr ""
+msgstr "Almanca"
 
 #: ratticweb/settings.py:60
 msgid "Italian"
-msgstr ""
+msgstr "İtalyanca"
 
 #: ratticweb/templates/404.html:6
 msgid "Page not found"
-msgstr ""
+msgstr "Sayfa bulunamadı"
 
 #: ratticweb/templates/404.html:7
 msgid ""
@@ -958,11 +958,11 @@ msgstr ""
 
 #: ratticweb/templates/base.html:51
 msgid "Report an issue"
-msgstr ""
+msgstr "Sorun Bildir"
 
 #: ratticweb/templates/base.html:51
 msgid "Contact Us"
-msgstr ""
+msgstr "İletişim"
 
 #: ratticweb/templates/home.html:9
 msgid "Your username and password didn't match. Please try again."
@@ -970,11 +970,11 @@ msgstr ""
 
 #: ratticweb/templates/home.html:13
 msgid "Welcome to Rattic"
-msgstr ""
+msgstr "Rattic'e Hoşgeldiniz"
 
 #: ratticweb/templates/home.html:14
 msgid "RatticDB Logo"
-msgstr ""
+msgstr "RatticDB Logo"
 
 #: ratticweb/templates/home.html:15
 msgid "It does passwords."
@@ -983,7 +983,7 @@ msgstr ""
 #: ratticweb/templates/navbar.html:16
 #: staff/templates/staff_groupdetail.html:22
 msgid "Passwords"
-msgstr ""
+msgstr "Parolalar"
 
 #: ratticweb/templates/navbar.html:20 ratticweb/templates/navbar.html.py:47
 msgid "Change Queue"
@@ -999,7 +999,7 @@ msgstr "Yardım"
 
 #: ratticweb/templates/navbar.html:37
 msgid "Menu"
-msgstr ""
+msgstr "Menü"
 
 #: ratticweb/templates/navbar.html:44
 msgid "All Passwords"
@@ -1011,12 +1011,12 @@ msgstr "Çıkış"
 
 #: ratticweb/templates/sidebar.html:6
 msgid "You"
-msgstr ""
+msgstr "Sen"
 
 #: ratticweb/templates/sidebar.html:7
 #, python-format
 msgid "Welcome %(username)s."
-msgstr ""
+msgstr "%(username)s Hoşgeldin."
 
 #: ratticweb/templates/sidebar.html:8
 msgid "Profile"
@@ -1040,15 +1040,15 @@ msgstr ""
 
 #: ratticweb/templates/sidebar.html:31
 msgid "Forgotten password?"
-msgstr ""
+msgstr "Şifrenizi mi unuttunuz?"
 
 #: ratticweb/templates/sidebar.html:36
 msgid "Google Sign-in"
-msgstr ""
+msgstr "Google Giriş"
 
 #: staff/models.py:47
 msgid "Passwords do not match"
-msgstr ""
+msgstr "Parolalar eşleşmiyor"
 
 #: staff/models.py:83
 msgid "Could not read keepass file, the password you gave may not be correct."
@@ -1090,7 +1090,7 @@ msgstr ""
 
 #: staff/templates/staff_groupdetail.html:7
 msgid "Delete Group"
-msgstr ""
+msgstr "Grup Sil"
 
 #: staff/templates/staff_groupdetail.html:8
 msgid "Deleting this group will delete every password underneath it."
@@ -1099,19 +1099,19 @@ msgstr ""
 #: staff/templates/staff_groupdetail.html:21
 #: staff/templates/staff_home.html:23
 msgid "Users"
-msgstr ""
+msgstr "Kullanıcılar"
 
 #: staff/templates/staff_groupdetail.html:26
 msgid "Delete forever"
-msgstr ""
+msgstr "Kalıcı olarak sil"
 
 #: staff/templates/staff_groupedit.html:6
 msgid "Create Group"
-msgstr ""
+msgstr "Grup Oluştur"
 
 #: staff/templates/staff_groupedit.html:6
 msgid "Edit Group"
-msgstr ""
+msgstr "Grubu Düzenle"
 
 #: staff/templates/staff_home.html:5
 msgid "Staff"
@@ -1123,19 +1123,19 @@ msgstr ""
 
 #: staff/templates/staff_home.html:12
 msgid "Add User"
-msgstr ""
+msgstr "Kullanıcı Ekle"
 
 #: staff/templates/staff_home.html:16
 msgid "Add Group"
-msgstr ""
+msgstr "Grup Ekle"
 
 #: staff/templates/staff_home.html:18
 msgid "Import Keepass"
-msgstr ""
+msgstr "Keepass İçe Aktar"
 
 #: staff/templates/staff_home.html:19
 msgid "View Trash"
-msgstr ""
+msgstr "Çöpü Görüntüle"
 
 #: staff/templates/staff_home.html:20
 msgid "Audit One Week"
@@ -1143,7 +1143,7 @@ msgstr ""
 
 #: staff/templates/staff_home.html:27
 msgid "email"
-msgstr ""
+msgstr "e-posta"
 
 #: staff/templates/staff_home.html:45
 msgid "Access Groups"
@@ -1151,23 +1151,23 @@ msgstr ""
 
 #: staff/templates/staff_import_overview.html:6
 msgid "Import Overview"
-msgstr ""
+msgstr "İçe Aktarma Genel Bakış"
 
 #: staff/templates/staff_import_overview.html:19
 msgid "Import"
-msgstr ""
+msgstr "İçe Aktar"
 
 #: staff/templates/staff_import_overview.html:20
 msgid "Skip"
-msgstr ""
+msgstr "Atla"
 
 #: staff/templates/staff_import_process.html:10
 msgid "Password Import"
-msgstr ""
+msgstr "Parola İçe Aktarma"
 
 #: staff/templates/staff_keepassimport.html:16
 msgid "Keepass Import"
-msgstr ""
+msgstr "Keepass İçe Aktarma"
 
 #: staff/templates/staff_keepassimport.html:17
 msgid ""
@@ -1186,16 +1186,16 @@ msgstr ""
 
 #: staff/templates/staff_userdetail.html:19
 msgid "Confirm Delete"
-msgstr ""
+msgstr "Silmeyi Onayla"
 
 #: staff/templates/staff_userdetail.html:23
 msgid "Disable Two Factor"
-msgstr ""
+msgstr "İki Aşamalı Doğrulamayı Pasifleştir"
 
 #: staff/templates/staff_useredit.html:6
 msgid "Create User"
-msgstr ""
+msgstr "Kullanıcı Oluştur"
 
 #: staff/templates/staff_useredit.html:6
 msgid "Edit User"
-msgstr ""
+msgstr "Kullanıcıyı Düzenle"
